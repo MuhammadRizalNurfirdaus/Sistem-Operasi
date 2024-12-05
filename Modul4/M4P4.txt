@@ -1,0 +1,6 @@
+Program Deadlock
+	while true
+		n = 1
+	wend
+end
+
